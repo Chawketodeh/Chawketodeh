@@ -10,30 +10,72 @@ Welcome to my GitHub profile! I'm a Software Engineering graduate passionate abo
 
 ## 🛠️ Technologies & Tools
 
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,mongodb,python,java,cpp,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,dart,swift" />
 </p>
+
+`SQL` • `PL/SQL`
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+`REST APIs` • `JWT Authentication` • `MVC Architecture`
+
+### 🗄️ Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+`Sequelize` • `Mongoose`
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
+</p>
+
+`GitHub Actions` • `CI/CD`
+
+### 📊 Platforms & Other Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+`Odoo ERP` • `Power BI` • `Canva`
 
 ---
 
 ## 🚀 What I Work With
 
-**Frontend:** React, Next.js, JavaScript, TypeScript  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MySQL, MongoDB  
-**Other:** Python, Java, C++, Odoo Integration, GitHub Actions, Docker
+**Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express.js, Spring Boot, REST APIs, JWT, MVC  
+**Databases:** MySQL, MongoDB, PostgreSQL  
+**ORM / ODM:** Sequelize, Mongoose  
+**Languages:** JavaScript, TypeScript, SQL, PL/SQL, PHP  
+**Basic Experience:** Java, Dart, Swift  
+**DevOps & Tools:** Git, GitHub, GitHub Actions, Docker, CI/CD, Postman  
+**Other:** Odoo ERP, Power BI, Figma, Canva Integration, GitHub Actions, Docker
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chawketodeh&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawketodeh&layout=compact&hide_border=true" />
-</p>
+💻 Building full-stack applications and production-ready projects  
+🚀 Working with React, Next.js, Node.js and modern web technologies  
+🔧 Always improving my software engineering skills
 
 ---
 
