@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a Software Engineering graduate passionate abo
 
 I'm always open to interesting software projects, collaborations, and new opportunities.
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="linkedin.com/in/chawket-odeh-14373a275">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
 </a>
 
